@@ -13,7 +13,7 @@ def hello_world():  # put application's code here
     return jsonify(message='Hello World!')
 
 
-@app.route('/test')
+@app.route('/test', methods=['GET'])
 def testing_data():
 
     return jsonify(message=my_dict)
