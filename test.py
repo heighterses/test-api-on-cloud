@@ -7,5 +7,5 @@ headers = {
     "test-key-name": key
 }
 
-response = requests.get(api_url,headers=headers)
+response = requests.get(api_url, headers=headers)
 print(response.json())
