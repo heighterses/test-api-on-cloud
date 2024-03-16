@@ -1,6 +1,6 @@
 # 🌐 Flask API Documentation
 
-This Flask API is hosted on Azure App Service and managed in API Management Services on Azure with  Subscription KEY 🔑.
+This Flask API is hosted on Azure App Service and managed in API Management Services on Azure with  Subscription KEY 🔑
 
 ## 🚀 Endpoint
 
